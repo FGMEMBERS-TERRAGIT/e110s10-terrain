@@ -1,0 +1,5 @@
+OBJECT_BASE 4904408.btg
+OBJECT WAAJ.btg
+OBJECT_SHARED Models/Airport/windsock.xml 119.029934 -2.586075 5.3 0.00
+OBJECT WAWJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 119.030604 -2.587099 6.5 0.00
